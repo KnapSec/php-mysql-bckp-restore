@@ -1,4 +1,4 @@
-# php-mysql-bckp-restore
+# MySQL Database Backup & Restore using PHP
 
 ### This class will help you in backup and restore mysql db using php.
 
